@@ -1,0 +1,5 @@
+Original PKT SHA-256 matches inspected snapshot: aff967f4a9f318e04da61df4f5c8c547dd25480f6976aa19b2d611dd20f91f63
+Saved topology: 184 devices; 144 cable links
+Device types: {"AccessPoint": 10, "Cloud": 2, "IpPhone": 1, "Laptop": 4, "MCUComponent": 70, "MultiLayerSwitch": 2, "Pc": 31, "Pda": 10, "Power Distribution Device": 9, "Printer": 10, "Router": 5, "Server": 5, "Switch": 22, "TV": 2, "TabletPC": 1}
+PASS: source hash, saved metadata counts and link endpoints; infrastructure plot generated.
+NOT RUN: Packet Tracer simulation, DHCP lease acquisition, WAN ping/traceroute or service access.

@@ -1,0 +1,2017 @@
+{
+  "source": "Working_Assignment_Final[1].pkt",
+  "sha256": "aff967f4a9f318e04da61df4f5c8c547dd25480f6976aa19b2d611dd20f91f63",
+  "provenance": "Metadata extracted from the saved Packet Tracer topology during source inspection; no simulation or reachability test. Device coordinates and cable references only; no configuration passwords exported.",
+  "devices": [
+    {
+      "id": "save-ref-id:7614689343204342937",
+      "name": "Power Distribution Device0",
+      "type": "Power Distribution Device",
+      "x": 3877.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:3442981220645219865",
+      "name": "PC0",
+      "type": "Pc",
+      "x": 474.0,
+      "y": 93.0
+    },
+    {
+      "id": "save-ref-id:13014160521621814306",
+      "name": "Printer0",
+      "type": "Printer",
+      "x": 582.5,
+      "y": 101.0
+    },
+    {
+      "id": "save-ref-id:8585494774458323006",
+      "name": "Web server",
+      "type": "Server",
+      "x": 611.5,
+      "y": 733.0
+    },
+    {
+      "id": "save-ref-id:9235791474093647159",
+      "name": "Printer1",
+      "type": "Printer",
+      "x": 1186.5,
+      "y": 258.0
+    },
+    {
+      "id": "save-ref-id:5802428480960821053",
+      "name": "PC1",
+      "type": "Pc",
+      "x": 1279.0,
+      "y": 255.0
+    },
+    {
+      "id": "save-ref-id:7075969600789849016",
+      "name": "PC2",
+      "type": "Pc",
+      "x": 372.0,
+      "y": 93.0
+    },
+    {
+      "id": "save-ref-id:6155885699460012267",
+      "name": "PC3",
+      "type": "Pc",
+      "x": 268.0,
+      "y": 97.0
+    },
+    {
+      "id": "save-ref-id:16756543795383720396",
+      "name": "Smartphone1",
+      "type": "Pda",
+      "x": 471.0,
+      "y": 171.0
+    },
+    {
+      "id": "save-ref-id:13554852791309871996",
+      "name": "Access Point1",
+      "type": "AccessPoint",
+      "x": 768.5,
+      "y": 181.0
+    },
+    {
+      "id": "save-ref-id:4701625518163092510",
+      "name": "IoT4",
+      "type": "MCUComponent",
+      "x": 95.0,
+      "y": 320.0
+    },
+    {
+      "id": "save-ref-id:3126675427578746687",
+      "name": "IoT5",
+      "type": "MCUComponent",
+      "x": 84.0,
+      "y": 160.0
+    },
+    {
+      "id": "save-ref-id:1351333430157232321",
+      "name": "IoT6",
+      "type": "MCUComponent",
+      "x": 208.0,
+      "y": 314.0
+    },
+    {
+      "id": "save-ref-id:6347647370980260426",
+      "name": "IoT7",
+      "type": "MCUComponent",
+      "x": 573.0,
+      "y": 260.0
+    },
+    {
+      "id": "save-ref-id:15159456010329722700",
+      "name": "IoT8",
+      "type": "MCUComponent",
+      "x": 717.0,
+      "y": 248.0
+    },
+    {
+      "id": "save-ref-id:9026989235135202090",
+      "name": "HR Room",
+      "type": "Switch",
+      "x": 771.5,
+      "y": 103.0
+    },
+    {
+      "id": "save-ref-id:11754280052738800817",
+      "name": "PC5",
+      "type": "Pc",
+      "x": 1379.0,
+      "y": 255.0
+    },
+    {
+      "id": "save-ref-id:4091931910386794549",
+      "name": "PC6",
+      "type": "Pc",
+      "x": 1471.0,
+      "y": 252.0
+    },
+    {
+      "id": "save-ref-id:12599487254272542083",
+      "name": "Access Point2",
+      "type": "AccessPoint",
+      "x": 1179.5,
+      "y": 365.0
+    },
+    {
+      "id": "save-ref-id:8387579621549941024",
+      "name": "Access Point3",
+      "type": "AccessPoint",
+      "x": 280.5,
+      "y": 752.0
+    },
+    {
+      "id": "save-ref-id:6483558359024234372",
+      "name": "Power Distribution Device3",
+      "type": "Power Distribution Device",
+      "x": 3882.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:15628591645724747471",
+      "name": "Laptop0",
+      "type": "Laptop",
+      "x": 421.0,
+      "y": 769.0
+    },
+    {
+      "id": "save-ref-id:2789098327860078634",
+      "name": "IoT9",
+      "type": "MCUComponent",
+      "x": 334.0,
+      "y": 480.0
+    },
+    {
+      "id": "save-ref-id:6001776259707117670",
+      "name": "IoT10",
+      "type": "MCUComponent",
+      "x": 252.0,
+      "y": 478.0
+    },
+    {
+      "id": "save-ref-id:18298719347106026913",
+      "name": "IoT11",
+      "type": "MCUComponent",
+      "x": 156.0,
+      "y": 485.0
+    },
+    {
+      "id": "save-ref-id:15669291332867408575",
+      "name": "IoT12",
+      "type": "MCUComponent",
+      "x": 471.0,
+      "y": 475.0
+    },
+    {
+      "id": "save-ref-id:12948120015134314402",
+      "name": "IoT13",
+      "type": "MCUComponent",
+      "x": 0.0,
+      "y": 606.0
+    },
+    {
+      "id": "save-ref-id:14590389208009040686",
+      "name": "Power Distribution Device4",
+      "type": "Power Distribution Device",
+      "x": 3882.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:10854122963930638893",
+      "name": "Server Room",
+      "type": "Switch",
+      "x": 379.5,
+      "y": 651.0
+    },
+    {
+      "id": "save-ref-id:9510492730379562773",
+      "name": "Smartphone2",
+      "type": "Pda",
+      "x": 1266.0,
+      "y": 367.0
+    },
+    {
+      "id": "save-ref-id:1135915435072888199",
+      "name": "IoT14",
+      "type": "MCUComponent",
+      "x": 977.0,
+      "y": 92.0
+    },
+    {
+      "id": "save-ref-id:10630592141257523710",
+      "name": "IoT15",
+      "type": "MCUComponent",
+      "x": 1467.0,
+      "y": 128.0
+    },
+    {
+      "id": "save-ref-id:13567350557810651787",
+      "name": "IoT16",
+      "type": "MCUComponent",
+      "x": 1152.0,
+      "y": 91.0
+    },
+    {
+      "id": "save-ref-id:6355860003408237752",
+      "name": "IoT17",
+      "type": "MCUComponent",
+      "x": 1364.0,
+      "y": 119.0
+    },
+    {
+      "id": "save-ref-id:7951285359964865832",
+      "name": "IoT18",
+      "type": "MCUComponent",
+      "x": 1619.0,
+      "y": 118.0
+    },
+    {
+      "id": "save-ref-id:6837283595108824574",
+      "name": "Admin Room",
+      "type": "Switch",
+      "x": 999.5,
+      "y": 275.0
+    },
+    {
+      "id": "save-ref-id:10575612043707393424",
+      "name": "Access Point0",
+      "type": "AccessPoint",
+      "x": 1042.5,
+      "y": 886.0
+    },
+    {
+      "id": "save-ref-id:4472031393142669870",
+      "name": "Smartphone0",
+      "type": "Pda",
+      "x": 1321.0,
+      "y": 832.0
+    },
+    {
+      "id": "save-ref-id:14561166058831496469",
+      "name": "PC4",
+      "type": "Pc",
+      "x": 1314.0,
+      "y": 552.0
+    },
+    {
+      "id": "save-ref-id:10061442051822750885",
+      "name": "PC7",
+      "type": "Pc",
+      "x": 1420.0,
+      "y": 555.0
+    },
+    {
+      "id": "save-ref-id:15309302161691149069",
+      "name": "PC8",
+      "type": "Pc",
+      "x": 1538.0,
+      "y": 554.0
+    },
+    {
+      "id": "save-ref-id:7917285979407309807",
+      "name": "PC9",
+      "type": "Pc",
+      "x": 1633.0,
+      "y": 554.0
+    },
+    {
+      "id": "save-ref-id:17861624232350123377",
+      "name": "PC10",
+      "type": "Pc",
+      "x": 1306.0,
+      "y": 677.0
+    },
+    {
+      "id": "save-ref-id:3739007396885582921",
+      "name": "PC11",
+      "type": "Pc",
+      "x": 1406.0,
+      "y": 678.0
+    },
+    {
+      "id": "save-ref-id:17455523373317758918",
+      "name": "PC12",
+      "type": "Pc",
+      "x": 1517.0,
+      "y": 676.0
+    },
+    {
+      "id": "save-ref-id:6412396972615676813",
+      "name": "PC13",
+      "type": "Pc",
+      "x": 1620.0,
+      "y": 674.0
+    },
+    {
+      "id": "save-ref-id:6812781358626674377",
+      "name": "IT Room",
+      "type": "Switch",
+      "x": 1046.5,
+      "y": 804.0
+    },
+    {
+      "id": "save-ref-id:8017621166888977850",
+      "name": "IoT0",
+      "type": "MCUComponent",
+      "x": 1461.0,
+      "y": 984.0
+    },
+    {
+      "id": "save-ref-id:3076291709360026992",
+      "name": "IoT1",
+      "type": "MCUComponent",
+      "x": 1596.0,
+      "y": 757.0
+    },
+    {
+      "id": "save-ref-id:17598968988649596052",
+      "name": "IoT2",
+      "type": "MCUComponent",
+      "x": 1252.0,
+      "y": 972.0
+    },
+    {
+      "id": "save-ref-id:11140102441272901045",
+      "name": "IoT3",
+      "type": "MCUComponent",
+      "x": 1129.0,
+      "y": 531.0
+    },
+    {
+      "id": "save-ref-id:1367805781859712228",
+      "name": "IoT19",
+      "type": "MCUComponent",
+      "x": 1551.0,
+      "y": 1011.0
+    },
+    {
+      "id": "save-ref-id:15663335705308970240",
+      "name": "Sales Switch",
+      "type": "Switch",
+      "x": 3404.5,
+      "y": 1066.0
+    },
+    {
+      "id": "save-ref-id:3933674315743272625",
+      "name": "Access Point3(1)",
+      "type": "AccessPoint",
+      "x": 3562.5,
+      "y": 1060.0
+    },
+    {
+      "id": "save-ref-id:13110091869727817163",
+      "name": "Access Point0(1)",
+      "type": "AccessPoint",
+      "x": 3310.5,
+      "y": 503.0
+    },
+    {
+      "id": "save-ref-id:11827667006620002019",
+      "name": "TV0",
+      "type": "TV",
+      "x": 3022.0,
+      "y": 458.0
+    },
+    {
+      "id": "save-ref-id:10622117296421163123",
+      "name": "Access Point1(1)",
+      "type": "AccessPoint",
+      "x": 2132.5,
+      "y": 473.0
+    },
+    {
+      "id": "save-ref-id:11423842548208209347",
+      "name": "PC Server",
+      "type": "Pc",
+      "x": 2171.0,
+      "y": 994.0
+    },
+    {
+      "id": "save-ref-id:1754132863205080976",
+      "name": "IoT4(1)",
+      "type": "MCUComponent",
+      "x": 2672.0,
+      "y": 327.0
+    },
+    {
+      "id": "save-ref-id:5123972884613882614",
+      "name": "PC Finance",
+      "type": "Pc",
+      "x": 3502.0,
+      "y": 191.0
+    },
+    {
+      "id": "save-ref-id:1958605219128862223",
+      "name": "IoT9(1)",
+      "type": "MCUComponent",
+      "x": 3476.0,
+      "y": 891.0
+    },
+    {
+      "id": "save-ref-id:16034942134227674855",
+      "name": "Smartphone0(1)",
+      "type": "Pda",
+      "x": 2098.0,
+      "y": 553.0
+    },
+    {
+      "id": "save-ref-id:6977738255684495969",
+      "name": "IoT10(1)",
+      "type": "MCUComponent",
+      "x": 3279.0,
+      "y": 889.0
+    },
+    {
+      "id": "save-ref-id:12407377583174638805",
+      "name": "Laptop4",
+      "type": "Laptop",
+      "x": 3413.0,
+      "y": 633.0
+    },
+    {
+      "id": "save-ref-id:5882737658608263508",
+      "name": "IoT15(1)",
+      "type": "MCUComponent",
+      "x": 2402.0,
+      "y": 818.0
+    },
+    {
+      "id": "save-ref-id:9645844790407349040",
+      "name": "Email Server",
+      "type": "Server",
+      "x": 2251.5,
+      "y": 1145.0
+    },
+    {
+      "id": "save-ref-id:10597569132901192968",
+      "name": "Laptop5",
+      "type": "Laptop",
+      "x": 1998.0,
+      "y": 397.0
+    },
+    {
+      "id": "save-ref-id:7657392138433655103",
+      "name": "PC IT",
+      "type": "Pc",
+      "x": 2340.0,
+      "y": 227.0
+    },
+    {
+      "id": "save-ref-id:16009537162017998869",
+      "name": "Router6",
+      "type": "Router",
+      "x": 2819.5,
+      "y": 1371.0
+    },
+    {
+      "id": "save-ref-id:14585791882209410008",
+      "name": "IoT13(1)",
+      "type": "MCUComponent",
+      "x": 3465.0,
+      "y": 436.0
+    },
+    {
+      "id": "save-ref-id:7530034916540161841",
+      "name": "Printer2",
+      "type": "Printer",
+      "x": 3322.5,
+      "y": 176.0
+    },
+    {
+      "id": "save-ref-id:1922639187885428510",
+      "name": "Tablet PC0",
+      "type": "TabletPC",
+      "x": 3187.5,
+      "y": 626.0
+    },
+    {
+      "id": "save-ref-id:7112513926475649165",
+      "name": "IoT14(1)",
+      "type": "MCUComponent",
+      "x": 3106.0,
+      "y": 139.0
+    },
+    {
+      "id": "save-ref-id:172906449493084958",
+      "name": "IP Phone0",
+      "type": "IpPhone",
+      "x": 2130.0,
+      "y": 310.0
+    },
+    {
+      "id": "save-ref-id:15809179244732735974",
+      "name": "Finance Switch",
+      "type": "Switch",
+      "x": 3316.5,
+      "y": 348.0
+    },
+    {
+      "id": "save-ref-id:1925293160603884868",
+      "name": "TV1",
+      "type": "TV",
+      "x": 3114.0,
+      "y": 887.0
+    },
+    {
+      "id": "save-ref-id:1035499898492907716",
+      "name": "Laptop3",
+      "type": "Laptop",
+      "x": 3666.0,
+      "y": 1057.0
+    },
+    {
+      "id": "save-ref-id:11048003550228556745",
+      "name": "Smartphone1(1)",
+      "type": "Pda",
+      "x": 3656.0,
+      "y": 1176.0
+    },
+    {
+      "id": "save-ref-id:11507285255101814695",
+      "name": "Cloud1",
+      "type": "Cloud",
+      "x": 3230.0,
+      "y": 969.0
+    },
+    {
+      "id": "save-ref-id:7572526815563150558",
+      "name": "Switch7(1)",
+      "type": "Switch",
+      "x": 2366.5,
+      "y": 993.0
+    },
+    {
+      "id": "save-ref-id:14259159140070282933",
+      "name": "IoT0(1)",
+      "type": "MCUComponent",
+      "x": 2528.0,
+      "y": 938.0
+    },
+    {
+      "id": "save-ref-id:670336655599527607",
+      "name": "IT_Printer",
+      "type": "Printer",
+      "x": 2568.5,
+      "y": 226.0
+    },
+    {
+      "id": "save-ref-id:17142713084286128789",
+      "name": "IoT7(1)",
+      "type": "MCUComponent",
+      "x": 3575.0,
+      "y": 889.0
+    },
+    {
+      "id": "save-ref-id:17766620092499840487",
+      "name": "IoT1(1)",
+      "type": "MCUComponent",
+      "x": 2202.0,
+      "y": 834.0
+    },
+    {
+      "id": "save-ref-id:7711229231025445202",
+      "name": "Sales PC",
+      "type": "Pc",
+      "x": 3405.0,
+      "y": 855.0
+    },
+    {
+      "id": "save-ref-id:14706458816006951836",
+      "name": "Cloud0",
+      "type": "Cloud",
+      "x": 3065.0,
+      "y": 344.0
+    },
+    {
+      "id": "save-ref-id:13178370266529513641",
+      "name": "IT (IoT 1)",
+      "type": "MCUComponent",
+      "x": 2408.0,
+      "y": 589.0
+    },
+    {
+      "id": "save-ref-id:1640716735630644509",
+      "name": "IoT6(1)",
+      "type": "MCUComponent",
+      "x": 2641.0,
+      "y": 506.0
+    },
+    {
+      "id": "save-ref-id:1701475957602139395",
+      "name": "IT Switch",
+      "type": "Switch",
+      "x": 2400.5,
+      "y": 423.0
+    },
+    {
+      "id": "save-ref-id:2837353696477021203",
+      "name": "Printer1(1)",
+      "type": "Printer",
+      "x": 3406.5,
+      "y": 1175.0
+    },
+    {
+      "id": "save-ref-id:13783730046357105561",
+      "name": "IoT12(1)",
+      "type": "MCUComponent",
+      "x": 3560.0,
+      "y": 286.0
+    },
+    {
+      "id": "save-ref-id:17776115578814980560",
+      "name": "Access Point0(2)",
+      "type": "AccessPoint",
+      "x": 3149.5,
+      "y": 1969.0
+    },
+    {
+      "id": "save-ref-id:12194410732803205095",
+      "name": "IoT13(2)",
+      "type": "MCUComponent",
+      "x": 3281.0,
+      "y": 1892.0
+    },
+    {
+      "id": "save-ref-id:3621230930843978810",
+      "name": "Employee 1",
+      "type": "Pc",
+      "x": 3715.0,
+      "y": 3470.0
+    },
+    {
+      "id": "save-ref-id:6589485645641643391",
+      "name": "IoT17(1)",
+      "type": "MCUComponent",
+      "x": 3267.0,
+      "y": 2347.0
+    },
+    {
+      "id": "save-ref-id:2766832639038332907",
+      "name": "KL Router",
+      "type": "Router",
+      "x": 2827.5,
+      "y": 1609.0
+    },
+    {
+      "id": "save-ref-id:2210465411602674141",
+      "name": "IoT6(2)",
+      "type": "MCUComponent",
+      "x": 3067.0,
+      "y": 3334.0
+    },
+    {
+      "id": "save-ref-id:786817531121289254",
+      "name": "IoT9(2)",
+      "type": "MCUComponent",
+      "x": 3273.0,
+      "y": 3514.0
+    },
+    {
+      "id": "save-ref-id:2252798015680097197",
+      "name": "IoT4(2)",
+      "type": "MCUComponent",
+      "x": 3682.0,
+      "y": 2843.0
+    },
+    {
+      "id": "save-ref-id:11108748516298175669",
+      "name": "Printer0(1)",
+      "type": "Printer",
+      "x": 3482.5,
+      "y": 2033.0
+    },
+    {
+      "id": "save-ref-id:8879129407335343245",
+      "name": "IoT8(1)",
+      "type": "MCUComponent",
+      "x": 3599.0,
+      "y": 3286.0
+    },
+    {
+      "id": "save-ref-id:10130696659740094749",
+      "name": "Reception PC",
+      "type": "Pc",
+      "x": 3667.0,
+      "y": 2293.0
+    },
+    {
+      "id": "save-ref-id:11361102738429110745",
+      "name": "File Server",
+      "type": "Server",
+      "x": 3694.5,
+      "y": 3101.0
+    },
+    {
+      "id": "save-ref-id:208680636787462566",
+      "name": "IoT16(1)",
+      "type": "MCUComponent",
+      "x": 3824.0,
+      "y": 2132.0
+    },
+    {
+      "id": "save-ref-id:2290417335262523533",
+      "name": "IoT0(2)",
+      "type": "MCUComponent",
+      "x": 3153.0,
+      "y": 3067.0
+    },
+    {
+      "id": "save-ref-id:1540852160801984712",
+      "name": "Switch CEO",
+      "type": "Switch",
+      "x": 3469.5,
+      "y": 1817.0
+    },
+    {
+      "id": "save-ref-id:2333029845491265464",
+      "name": "IoT11(1)",
+      "type": "MCUComponent",
+      "x": 3191.0,
+      "y": 1577.0
+    },
+    {
+      "id": "save-ref-id:8839477936715559448",
+      "name": "IoT18(1)",
+      "type": "MCUComponent",
+      "x": 3135.0,
+      "y": 2319.0
+    },
+    {
+      "id": "save-ref-id:12442213548824028155",
+      "name": "Server Switch-5",
+      "type": "Switch",
+      "x": 3126.5,
+      "y": 2819.0
+    },
+    {
+      "id": "save-ref-id:15850038845260821072",
+      "name": "Server Switch-2",
+      "type": "Switch",
+      "x": 3113.5,
+      "y": 2663.0
+    },
+    {
+      "id": "save-ref-id:8643408860240619787",
+      "name": "Server PC Maintainance",
+      "type": "Pc",
+      "x": 3413.0,
+      "y": 2728.0
+    },
+    {
+      "id": "save-ref-id:203055717405334750",
+      "name": "Power Distribution Device5",
+      "type": "Power Distribution Device",
+      "x": 3885.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:262129458118418854",
+      "name": "IoT5(1)",
+      "type": "MCUComponent",
+      "x": 3702.0,
+      "y": 3178.0
+    },
+    {
+      "id": "save-ref-id:15950215014837323660",
+      "name": "IoT10(2)",
+      "type": "MCUComponent",
+      "x": 3894.0,
+      "y": 1856.0
+    },
+    {
+      "id": "save-ref-id:10764213034128350234",
+      "name": "Smartphone0(2)",
+      "type": "Pda",
+      "x": 3143.0,
+      "y": 2089.0
+    },
+    {
+      "id": "save-ref-id:5587492644163560366",
+      "name": "Server Switch-3",
+      "type": "Switch",
+      "x": 3427.5,
+      "y": 2626.0
+    },
+    {
+      "id": "save-ref-id:13313976377040238111",
+      "name": "IoT15(2)",
+      "type": "MCUComponent",
+      "x": 3589.0,
+      "y": 1624.0
+    },
+    {
+      "id": "save-ref-id:13600673687531954290",
+      "name": "Employee Switch",
+      "type": "Switch",
+      "x": 3327.5,
+      "y": 3332.0
+    },
+    {
+      "id": "save-ref-id:13563213542757486111",
+      "name": "Employee 2",
+      "type": "Pc",
+      "x": 3722.0,
+      "y": 3557.0
+    },
+    {
+      "id": "save-ref-id:7531760576979712881",
+      "name": "Server Switch-4",
+      "type": "Switch",
+      "x": 3143.5,
+      "y": 2964.0
+    },
+    {
+      "id": "save-ref-id:10898462044631676331",
+      "name": "Server Switch-1",
+      "type": "Switch",
+      "x": 3120.5,
+      "y": 2530.0
+    },
+    {
+      "id": "save-ref-id:17385133300624510099",
+      "name": "Reception Switch",
+      "type": "Switch",
+      "x": 3266.5,
+      "y": 2276.0
+    },
+    {
+      "id": "save-ref-id:13341163864127970124",
+      "name": "CEO PC",
+      "type": "Pc",
+      "x": 3732.0,
+      "y": 1934.0
+    },
+    {
+      "id": "save-ref-id:18128583800879352966",
+      "name": "IoT1(2)",
+      "type": "MCUComponent",
+      "x": 3661.0,
+      "y": 2520.0
+    },
+    {
+      "id": "save-ref-id:16537357060184888054",
+      "name": "Power Distribution Device11",
+      "type": "Power Distribution Device",
+      "x": 3886.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:656437968223179627",
+      "name": "Power Distribution Device12",
+      "type": "Power Distribution Device",
+      "x": 3886.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:17937584581132068004",
+      "name": "Power Distribution Device13",
+      "type": "Power Distribution Device",
+      "x": 3886.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:5932051947472000604",
+      "name": "Power Distribution Device14",
+      "type": "Power Distribution Device",
+      "x": 3886.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:6376391919712926329",
+      "name": "Power Distribution Device15",
+      "type": "Power Distribution Device",
+      "x": 3886.0,
+      "y": 3900.0
+    },
+    {
+      "id": "save-ref-id:7805737499792056131",
+      "name": "AP 2",
+      "type": "AccessPoint",
+      "x": 1806.5,
+      "y": 2018.0
+    },
+    {
+      "id": "save-ref-id:2048307112883468164",
+      "name": "DHCP server",
+      "type": "Server",
+      "x": 2551.5,
+      "y": 1975.0
+    },
+    {
+      "id": "save-ref-id:9596910231793317702",
+      "name": "Router1(1)",
+      "type": "Router",
+      "x": 904.5,
+      "y": 1606.0
+    },
+    {
+      "id": "save-ref-id:10415360398060040398",
+      "name": "IoT0(3)",
+      "type": "MCUComponent",
+      "x": 2383.0,
+      "y": 2155.0
+    },
+    {
+      "id": "save-ref-id:742507253957730573",
+      "name": "IoT1(3)",
+      "type": "MCUComponent",
+      "x": 2397.0,
+      "y": 2056.0
+    },
+    {
+      "id": "save-ref-id:290705889061889145",
+      "name": "IoT2(1)",
+      "type": "MCUComponent",
+      "x": 2553.0,
+      "y": 2165.0
+    },
+    {
+      "id": "save-ref-id:12343101920634037082",
+      "name": "PC2(1)",
+      "type": "Pc",
+      "x": 1273.0,
+      "y": 2250.0
+    },
+    {
+      "id": "save-ref-id:7067401826946525691",
+      "name": "PC0(1)",
+      "type": "Pc",
+      "x": 51.0,
+      "y": 2012.0
+    },
+    {
+      "id": "save-ref-id:2217926293427664196",
+      "name": "PC3(1)",
+      "type": "Pc",
+      "x": 1895.0,
+      "y": 2237.0
+    },
+    {
+      "id": "save-ref-id:13215119706580114798",
+      "name": "PC1(1)",
+      "type": "Pc",
+      "x": 713.0,
+      "y": 2280.0
+    },
+    {
+      "id": "save-ref-id:556922702979862161",
+      "name": "AP 1",
+      "type": "AccessPoint",
+      "x": 1006.5,
+      "y": 2007.0
+    },
+    {
+      "id": "save-ref-id:7255559227748582010",
+      "name": "Admin switch",
+      "type": "Switch",
+      "x": 1197.5,
+      "y": 2170.0
+    },
+    {
+      "id": "save-ref-id:4769569866672985548",
+      "name": "IT switch",
+      "type": "Switch",
+      "x": 1813.5,
+      "y": 2155.0
+    },
+    {
+      "id": "save-ref-id:18003968005152949338",
+      "name": "DNS",
+      "type": "Server",
+      "x": 2490.5,
+      "y": 1977.0
+    },
+    {
+      "id": "save-ref-id:15897918095559835899",
+      "name": "Server_room switch",
+      "type": "Switch",
+      "x": 2479.5,
+      "y": 1872.0
+    },
+    {
+      "id": "save-ref-id:1225605338536146356",
+      "name": "Sales/Finance switch(1)",
+      "type": "Switch",
+      "x": 653.5,
+      "y": 2175.0
+    },
+    {
+      "id": "save-ref-id:8140290848823800824",
+      "name": "Printer0(2)",
+      "type": "Printer",
+      "x": 647.5,
+      "y": 2280.0
+    },
+    {
+      "id": "save-ref-id:10332833885368078527",
+      "name": "Printer2(1)",
+      "type": "Printer",
+      "x": 1826.5,
+      "y": 2242.0
+    },
+    {
+      "id": "save-ref-id:10639654075120217730",
+      "name": "Smartphone2(1)",
+      "type": "Pda",
+      "x": 434.0,
+      "y": 2149.0
+    },
+    {
+      "id": "save-ref-id:3941504753077941339",
+      "name": "Smartphone3",
+      "type": "Pda",
+      "x": 810.0,
+      "y": 2270.0
+    },
+    {
+      "id": "save-ref-id:5820914323780573832",
+      "name": "Smartphone0(3)",
+      "type": "Pda",
+      "x": 1366.0,
+      "y": 2243.0
+    },
+    {
+      "id": "save-ref-id:8140647960441724662",
+      "name": "Smartphone4",
+      "type": "Pda",
+      "x": 1970.0,
+      "y": 2240.0
+    },
+    {
+      "id": "save-ref-id:18277710282101713932",
+      "name": "Printer1(2)",
+      "type": "Printer",
+      "x": 1200.5,
+      "y": 2261.0
+    },
+    {
+      "id": "save-ref-id:7754603449999360529",
+      "name": "Printer3",
+      "type": "Printer",
+      "x": 138.5,
+      "y": 2010.0
+    },
+    {
+      "id": "save-ref-id:7344874366201322985",
+      "name": "PC4(1)",
+      "type": "Pc",
+      "x": 2426.0,
+      "y": 1969.0
+    },
+    {
+      "id": "save-ref-id:10533924072804649241",
+      "name": "IoT12(2)",
+      "type": "MCUComponent",
+      "x": 1452.0,
+      "y": 2297.0
+    },
+    {
+      "id": "save-ref-id:1185172669099310578",
+      "name": "IoT14(2)",
+      "type": "MCUComponent",
+      "x": 2442.0,
+      "y": 2166.0
+    },
+    {
+      "id": "save-ref-id:11010900696696918510",
+      "name": "IoT17(2)",
+      "type": "MCUComponent",
+      "x": 829.0,
+      "y": 2314.0
+    },
+    {
+      "id": "save-ref-id:14151212644413364445",
+      "name": "IoT13(3)",
+      "type": "MCUComponent",
+      "x": 714.0,
+      "y": 1849.0
+    },
+    {
+      "id": "save-ref-id:2857007015885745428",
+      "name": "IoT18(2)",
+      "type": "MCUComponent",
+      "x": 200.0,
+      "y": 2293.0
+    },
+    {
+      "id": "save-ref-id:11095433857457484270",
+      "name": "IoT19(1)",
+      "type": "MCUComponent",
+      "x": 2274.0,
+      "y": 2315.0
+    },
+    {
+      "id": "save-ref-id:11814048725956321700",
+      "name": "IoT16(2)",
+      "type": "MCUComponent",
+      "x": 2079.0,
+      "y": 2312.0
+    },
+    {
+      "id": "save-ref-id:5199699623118391773",
+      "name": "IoT20",
+      "type": "MCUComponent",
+      "x": 1679.0,
+      "y": 2294.0
+    },
+    {
+      "id": "save-ref-id:6204835763527167754",
+      "name": "IoT22",
+      "type": "MCUComponent",
+      "x": 419.0,
+      "y": 2296.0
+    },
+    {
+      "id": "save-ref-id:3165665091999775649",
+      "name": "IoT21",
+      "type": "MCUComponent",
+      "x": 1046.0,
+      "y": 2316.0
+    },
+    {
+      "id": "save-ref-id:6949330214956212763",
+      "name": "Hallway switch",
+      "type": "Switch",
+      "x": 1402.5,
+      "y": 1881.0
+    },
+    {
+      "id": "save-ref-id:3586018674513134024",
+      "name": "IoT11(2)",
+      "type": "MCUComponent",
+      "x": 612.0,
+      "y": 1852.0
+    },
+    {
+      "id": "save-ref-id:9780034229128531517",
+      "name": "IoT3(1)",
+      "type": "MCUComponent",
+      "x": 906.0,
+      "y": 2322.0
+    },
+    {
+      "id": "save-ref-id:18078064128132942010",
+      "name": "IoT8(2)",
+      "type": "MCUComponent",
+      "x": 2170.0,
+      "y": 2164.0
+    },
+    {
+      "id": "save-ref-id:9063645127772138736",
+      "name": "IoT10(3)",
+      "type": "MCUComponent",
+      "x": 550.0,
+      "y": 1986.0
+    },
+    {
+      "id": "save-ref-id:15408274349071605169",
+      "name": "IoT5(2)",
+      "type": "MCUComponent",
+      "x": 196.0,
+      "y": 2088.0
+    },
+    {
+      "id": "save-ref-id:17549652912649809974",
+      "name": "IoT7(2)",
+      "type": "MCUComponent",
+      "x": 1566.0,
+      "y": 2167.0
+    },
+    {
+      "id": "save-ref-id:6387670882099347078",
+      "name": "IoT6(3)",
+      "type": "MCUComponent",
+      "x": 935.0,
+      "y": 2181.0
+    },
+    {
+      "id": "save-ref-id:18128417403940290528",
+      "name": "IoT4(3)",
+      "type": "MCUComponent",
+      "x": 2389.0,
+      "y": 2268.0
+    },
+    {
+      "id": "save-ref-id:13632513183344978437",
+      "name": "HR switch",
+      "type": "Switch",
+      "x": 57.5,
+      "y": 1905.0
+    },
+    {
+      "id": "save-ref-id:12240828790930239985",
+      "name": "IoT9(3)",
+      "type": "MCUComponent",
+      "x": 1526.0,
+      "y": 2297.0
+    },
+    {
+      "id": "save-ref-id:5353373154939024586",
+      "name": "IoT15(3)",
+      "type": "MCUComponent",
+      "x": 2147.0,
+      "y": 2318.0
+    },
+    {
+      "id": "save-ref-id:5001076706227342831",
+      "name": "IoT23",
+      "type": "MCUComponent",
+      "x": 0.0,
+      "y": 2302.0
+    },
+    {
+      "id": "save-ref-id:17988829129076503880",
+      "name": "Multilayer Switch1",
+      "type": "MultiLayerSwitch",
+      "x": 599.5,
+      "y": 1732.0
+    },
+    {
+      "id": "save-ref-id:12518265553777112755",
+      "name": "Multilayer Switch 2",
+      "type": "MultiLayerSwitch",
+      "x": 1162.5,
+      "y": 1710.0
+    },
+    {
+      "id": "save-ref-id:4324548692973362161",
+      "name": "Router0",
+      "type": "Router",
+      "x": 1042.5,
+      "y": 683.0
+    },
+    {
+      "id": "save-ref-id:11746429011023122153",
+      "name": "Router2",
+      "type": "Router",
+      "x": 896.5,
+      "y": 1339.0
+    },
+    {
+      "id": "save-ref-id:1731834589955154010",
+      "name": "Server PC-1",
+      "type": "Pc",
+      "x": 3693.0,
+      "y": 2992.0
+    },
+    {
+      "id": "save-ref-id:18030325633044903775",
+      "name": "Server PC-2",
+      "type": "Pc",
+      "x": 3710.0,
+      "y": 2763.0
+    },
+    {
+      "id": "save-ref-id:3693014456002794166",
+      "name": "Server PC-3",
+      "type": "Pc",
+      "x": 3707.0,
+      "y": 2664.0
+    }
+  ],
+  "links": [
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:13014160521621814306",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:3442981220645219865",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:7075969600789849016",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:6155885699460012267",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:13554852791309871996",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:15159456010329722700",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:6347647370980260426",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:1351333430157232321",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:4701625518163092510",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9026989235135202090",
+      "to": "save-ref-id:3126675427578746687",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:8387579621549941024",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:12948120015134314402",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:2789098327860078634",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:6001776259707117670",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:18298719347106026913",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:12599487254272542083",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:9235791474093647159",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:5802428480960821053",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:11754280052738800817",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:4091931910386794549",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:1135915435072888199",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:13567350557810651787",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:6355860003408237752",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:10630592141257523710",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6837283595108824574",
+      "to": "save-ref-id:7951285359964865832",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:8585494774458323006",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:10575612043707393424",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:14561166058831496469",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:10061442051822750885",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:15309302161691149069",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:7917285979407309807",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:17861624232350123377",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:3739007396885582921",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:17455523373317758918",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:6412396972615676813",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:11140102441272901045",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:17598968988649596052",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:8017621166888977850",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:1367805781859712228",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6812781358626674377",
+      "to": "save-ref-id:3076291709360026992",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7711229231025445202",
+      "to": "save-ref-id:15663335705308970240",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11507285255101814695",
+      "to": "save-ref-id:15663335705308970240",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:15663335705308970240",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6977738255684495969",
+      "to": "save-ref-id:15663335705308970240",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15663335705308970240",
+      "to": "save-ref-id:2837353696477021203",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15663335705308970240",
+      "to": "save-ref-id:3933674315743272625",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15663335705308970240",
+      "to": "save-ref-id:17142713084286128789",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15663335705308970240",
+      "to": "save-ref-id:1958605219128862223",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:13110091869727817163",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:14706458816006951836",
+      "to": "save-ref-id:11827667006620002019",
+      "type": "eCoaxial"
+    },
+    {
+      "from": "save-ref-id:10622117296421163123",
+      "to": "save-ref-id:1701475957602139395",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7572526815563150558",
+      "to": "save-ref-id:11423842548208209347",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1701475957602139395",
+      "to": "save-ref-id:1754132863205080976",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:5123972884613882614",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7572526815563150558",
+      "to": "save-ref-id:5882737658608263508",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:9645844790407349040",
+      "to": "save-ref-id:7572526815563150558",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7657392138433655103",
+      "to": "save-ref-id:1701475957602139395",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:1701475957602139395",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:15809179244732735974",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:7572526815563150558",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:14585791882209410008",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7530034916540161841",
+      "to": "save-ref-id:15809179244732735974",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:7112513926475649165",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:172906449493084958",
+      "to": "save-ref-id:1701475957602139395",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:14706458816006951836",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15809179244732735974",
+      "to": "save-ref-id:13783730046357105561",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1925293160603884868",
+      "to": "save-ref-id:11507285255101814695",
+      "type": "eCoaxial"
+    },
+    {
+      "from": "save-ref-id:17766620092499840487",
+      "to": "save-ref-id:7572526815563150558",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:14259159140070282933",
+      "to": "save-ref-id:7572526815563150558",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1701475957602139395",
+      "to": "save-ref-id:670336655599527607",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1701475957602139395",
+      "to": "save-ref-id:13178370266529513641",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1701475957602139395",
+      "to": "save-ref-id:1640716735630644509",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:17776115578814980560",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:12194410732803205095",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:3621230930843978810",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17385133300624510099",
+      "to": "save-ref-id:6589485645641643391",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10898462044631676331",
+      "to": "save-ref-id:2766832639038332907",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:2766832639038332907",
+      "to": "save-ref-id:1540852160801984712",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:2766832639038332907",
+      "to": "save-ref-id:17385133300624510099",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:2766832639038332907",
+      "to": "save-ref-id:13600673687531954290",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:2210465411602674141",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:786817531121289254",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:12442213548824028155",
+      "to": "save-ref-id:2252798015680097197",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:11108748516298175669",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:8879129407335343245",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17385133300624510099",
+      "to": "save-ref-id:10130696659740094749",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11361102738429110745",
+      "to": "save-ref-id:7531760576979712881",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17385133300624510099",
+      "to": "save-ref-id:208680636787462566",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7531760576979712881",
+      "to": "save-ref-id:2290417335262523533",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:2333029845491265464",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:15950215014837323660",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:13313976377040238111",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1540852160801984712",
+      "to": "save-ref-id:13341163864127970124",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17385133300624510099",
+      "to": "save-ref-id:8839477936715559448",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7531760576979712881",
+      "to": "save-ref-id:12442213548824028155",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:12442213548824028155",
+      "to": "save-ref-id:15850038845260821072",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10898462044631676331",
+      "to": "save-ref-id:15850038845260821072",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15850038845260821072",
+      "to": "save-ref-id:18128583800879352966",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15850038845260821072",
+      "to": "save-ref-id:5587492644163560366",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:5587492644163560366",
+      "to": "save-ref-id:8643408860240619787",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:262129458118418854",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13600673687531954290",
+      "to": "save-ref-id:13563213542757486111",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:2766832639038332907",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:6949330214956212763",
+      "to": "save-ref-id:7805737499792056131",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:2048307112883468164",
+      "to": "save-ref-id:15897918095559835899",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17988829129076503880",
+      "to": "save-ref-id:9596910231793317702",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:12518265553777112755",
+      "to": "save-ref-id:9596910231793317702",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:12343101920634037082",
+      "to": "save-ref-id:7255559227748582010",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7067401826946525691",
+      "to": "save-ref-id:13632513183344978437",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:2217926293427664196",
+      "to": "save-ref-id:4769569866672985548",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13215119706580114798",
+      "to": "save-ref-id:1225605338536146356",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6949330214956212763",
+      "to": "save-ref-id:556922702979862161",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:18277710282101713932",
+      "to": "save-ref-id:7255559227748582010",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7255559227748582010",
+      "to": "save-ref-id:17988829129076503880",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7255559227748582010",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:10332833885368078527",
+      "to": "save-ref-id:4769569866672985548",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:4769569866672985548",
+      "to": "save-ref-id:17988829129076503880",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:4769569866672985548",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:18003968005152949338",
+      "to": "save-ref-id:15897918095559835899",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7344874366201322985",
+      "to": "save-ref-id:15897918095559835899",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15897918095559835899",
+      "to": "save-ref-id:17988829129076503880",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:15897918095559835899",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:8140290848823800824",
+      "to": "save-ref-id:1225605338536146356",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1225605338536146356",
+      "to": "save-ref-id:17988829129076503880",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:1225605338536146356",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:7754603449999360529",
+      "to": "save-ref-id:13632513183344978437",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6949330214956212763",
+      "to": "save-ref-id:17988829129076503880",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:6949330214956212763",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:17988829129076503880",
+      "to": "save-ref-id:13632513183344978437",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:13632513183344978437",
+      "to": "save-ref-id:12518265553777112755",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:16009537162017998869",
+      "to": "save-ref-id:9596910231793317702",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:9596910231793317702",
+      "to": "save-ref-id:2766832639038332907",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:10854122963930638893",
+      "to": "save-ref-id:15669291332867408575",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:6837283595108824574",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:9026989235135202090",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:4324548692973362161",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:10854122963930638893",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:4324548692973362161",
+      "to": "save-ref-id:6812781358626674377",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:9596910231793317702",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:2766832639038332907",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:11746429011023122153",
+      "to": "save-ref-id:16009537162017998869",
+      "type": "eSerial"
+    },
+    {
+      "from": "save-ref-id:1731834589955154010",
+      "to": "save-ref-id:12442213548824028155",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:18030325633044903775",
+      "to": "save-ref-id:12442213548824028155",
+      "type": "eCopper"
+    },
+    {
+      "from": "save-ref-id:3693014456002794166",
+      "to": "save-ref-id:15850038845260821072",
+      "type": "eCopper"
+    }
+  ]
+}
