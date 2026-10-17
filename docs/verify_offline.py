@@ -20,7 +20,9 @@ for l in links:
 colors={'Router':'#e76f51','Switch':'#457b9d','MultiLayerSwitch':'#8e44ad','Server':'#2a9d8f'}
 for kind,color in colors.items():
  ds=[d for d in core.values() if d['type']==kind];ax.scatter([d['x'] for d in ds],[-d['y'] for d in ds],c=color,s=80,label=kind,zorder=2)
-for d in core.values():ax.annotate(d['name'],(d['x'],-d['y']),xytext=(4,7),textcoords='offset points',fontsize=7)
+for d in core.values():
+ offset=(-16,13) if d['name']=='DNS' else ((12,-12) if d['name']=='DHCP server' else (4,7))
+ ax.annotate(d['name'],(d['x'],-d['y']),xytext=offset,textcoords='offset points',fontsize=7)
 ax.set_title('MapleTech saved topology — infrastructure devices and cable links',fontsize=14);ax.axis('off');ax.legend(loc='lower left')
 fig.text(.5,.015,'Reconstruction from saved file metadata, not a Packet Tracer screenshot or live simulation. End devices omitted.',ha='center',fontsize=9)
 assets=root/'docs/assets';assets.mkdir(exist_ok=True);fig.tight_layout(rect=(0,.03,1,1));fig.savefig(assets/'saved-topology.png',dpi=150);plt.close(fig)
